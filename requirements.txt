@@ -1,3 +1,3 @@
 mne
 pandas
-ipywidgets
+ipywidgets==4.1.1
