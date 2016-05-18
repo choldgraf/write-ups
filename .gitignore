@@ -52,3 +52,10 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# To avoid data folders
+data/
+
+# Misc other stuff
+.ipynb_checkpoints/
+.DS_Store
